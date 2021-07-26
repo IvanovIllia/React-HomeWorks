@@ -1,9 +1,11 @@
-import Appartments from './Appartments.js';
+import Appartments from './Appartments/Appartments.js';
 
-function App() {
+class App {
+  render() {
   return (
     <Appartments /> 
   );
+  }
 }
 
 export default App;

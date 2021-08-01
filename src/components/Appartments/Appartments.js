@@ -1,6 +1,6 @@
-import './myRoom';
-import logo from '../logo.svg';
-import './App.css';
+import '../myRoom/myRoom';
+import logo from '../../logo.svg';
+import '../App.css';
 
 function Appartments() {
   return (
